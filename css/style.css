@@ -857,8 +857,6 @@ footer .footer-inner a {
     width: 100%;
     max-width: 95vw;
     height: 100%;
-    max-height: fit-content;
-    min-height: fit-content;
   }
 
   .modal-content .body .img_container {
